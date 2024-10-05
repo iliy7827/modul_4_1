@@ -4,7 +4,7 @@ import true_math as tru # импортируем данные из модуля 
 
 fake_divide = fak.divide # вызываем функцию fak
 true_divide = tru.divide # вызываем функцию tru
-
+                     
 result1 = fake_divide(69, 3)
 result2 = fake_divide(3, 0)
 result3 = true_divide(49, 7)
