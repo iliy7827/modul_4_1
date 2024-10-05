@@ -5,6 +5,7 @@ def test_function():
 
     inner_function()
 test_function()
+inner_function()
 
 #Создайте новую функцию test_function
 #Создайте внутри test_function другую функцию - inner_function, Эта функция должна печатать значение "Я в области видимости функции test_function"
